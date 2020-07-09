@@ -1,16 +1,16 @@
-### Hi there 👋
+# Renato Takao Matura de Lima 😃
+FullStack Web Developer at Vórtx | Node.JS, React and React Native enthusiast
 
-<!--
-**RenatoTMLima/RenatoTMLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧐 About
+Actually working at Vórtx as FullStack Developer, in love with Node, React and React Native technologies, sometimes playing League of Legends or acoustic guitar.
 
-Here are some ideas to get you started:
+## ⚡ Technologies
+- Front-end using **React, Material-UI, HTML5, CSS3, Javascript, JQuery, Bootstrap**
+- Back-end using **Node, Express, PHP**
+- **Domain Driven Design, SOLID Principles**
+- Mobile application development using **React Native**
+- Some good knowledges on **Excel, VBA**
+- Know something about making dashboards with **PowerBI**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me
+- [LinkedIn](https://www.linkedin.com/in/renato-takao-matura-268286114/)
