@@ -12,4 +12,4 @@ Actually working as FullStack Developer, in love with Node and React technologie
 - Know something about making dashboards with **PowerBI**
 
 ## 📫 Contact Me
-- [LinkedIn](https://www.linkedin.com/in/renato-takao-matura-268286114/)
+- [LinkedIn](https://www.linkedin.com/in/renato-takao-matura/)
